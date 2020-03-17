@@ -1,10 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hamiltonchris20/personal_website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Chris Hamilton
 
 I am a third year PhD student in the Astrophysics group at DAMTP, working with Dr Roman Rafikov.  I am interested in the dynamics of galaxies, galactic nuclei, globular clusters, binary stars, planetary systems, etc.
 
