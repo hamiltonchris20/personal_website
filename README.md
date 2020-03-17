@@ -4,6 +4,7 @@ I am a third year PhD student in the Astrophysics group at DAMTP, working with D
 
 ```
 ch783 [AT] cam.ac.uk
+```
 
 # Header 1
 ## Header 2
@@ -18,4 +19,4 @@ ch783 [AT] cam.ac.uk
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
