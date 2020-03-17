@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-I am a second year PhD student in the Astrophysics group at DAMTP, working with Dr Roman Rafikov.  I am interested in the dynamics of galaxies, galactic nuclei, globular clusters, binary stars, planetary systems, etc.
+I am a third year PhD student in the Astrophysics group at DAMTP, working with Dr Roman Rafikov.  I am interested in the dynamics of galaxies, galactic nuclei, globular clusters, binary stars, planetary systems, etc.
 
 In the first year of my PhD I have developed a secular theory for the dynamical evolution of any binary orbiting an arbitrary axisymmetric potential.  The formalism is of interest to a theorist because it brings several separate problems into a simple unified framework.  In particular, (a) the hierarchical three-body problem, (b) Oort comets torqued by the Galactic tide, and (c) stars in nuclear clusters orbiting a supermassive black hole all arise as special cases of the general secular theory.  For astronomers our theory could also be of importance because it demonstrates that large-amplitude eccentricity oscillations typified by the Lidov-Kozai mechanism (and typically used to explain black hole mergers, blue stragglers, and hot jupiters) are in fact quite general whenever one has a wide binary orbiting an axisymmetric host system (e.g. a globular cluster).
 
