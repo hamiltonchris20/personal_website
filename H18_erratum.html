@@ -31,7 +31,7 @@ ch783 [at] cam.ac.uk
 	
 <h2>Erratum for Hamilton et al. (2018, MNRAS)</h2>
 	
-There was a small error in the code used to compute the BL flux for isotropic (f_0=f_0(E)) distributions in Hamilton+2018.  The error was simply that a term in the distribution function, arcsin(sqrt(-E)), had instead been written arcsin(-E), i.e. we missed the sqrt factor.  This error also crept in to the calculation of dfdE.
+There was a small error in the code used to compute the BL flux for isotropic (f=f(E)) distributions in Hamilton et al (2018, hereafter H18).  The error was simply that a term in the distribution function, arcsin(sqrt(-E)), had instead been written arcsin(-E), i.e. we missed the sqrt factor.  This error also crept in to the calculation of df/dE.
 This error biases the distribution function --- basically, it’s like adding an extra population of weakly bound orbits.  Luckily this error does not change any of the essential messages of H18, but does account for the anomalously large flux of weakly bound stars found in the isotropic run.
 <br> <br>
 Note that the non-isotropic runs in H18 all used the correct DF, i.e. f(Q) without any errors. All of the response matrix checks etc were done with non-isotropic DFs, so are all correct.
