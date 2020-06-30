@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
-  background: #white;
+  background: #555;
   font-family: Times !important;
   font-size: 14px;
 }
@@ -19,20 +19,32 @@ body {
 </head>
 <body>
 
+<div class="content"><h1 style="color:black;font-size:35px;"><center>Chris Hamilton</center></h1>
+
+<center>
+<p style="color:red;font-size:18px;">
+ch783 [at] cam.ac.uk
+	</p>
+</center>
+
+<p>
+	
 <h2>Erratum for Hamilton et al. (2018, MNRAS)</h2>
 	
 There was a small error in the code used to compute the BL flux for isotropic (f_0=f_0(E)) distributions in Hamilton+2018.  The error was simply that a term in the distribution function, arcsin(sqrt(-E)), had instead been written arcsin(-E), i.e. we missed the sqrt factor.  This error also crept in to the calculation of dfdE.
 This error biases the distribution function --- basically, it’s like adding an extra population of weakly bound orbits.  Luckily this error does not change any of the essential messages of H18, but does account for the anomalously large flux of weakly bound stars found in the isotropic run.
-
+<br> <br>
 Note that the non-isotropic runs in H18 all used the correct DF, i.e. f(Q) without any errors. All of the response matrix checks etc were done with non-isotropic DFs, so are all correct.
 Several of the values have since been checked with a new code, and agree nicely. In particular, the Ra=2.0b and Ra=4.2b calculations are still correct in Figures 9 and 12 of H18.  We also ran Ra=10 calculations correctly, and these gave close answers to the Isotropic case, except in the cluster's outskirts (i.e. at large Jr, L).
 Indeed (see Figs 9 and 12), the isotropic calculation resembles the Ra=2,4.2 calculations in the range Jr<1, L<1.5, outside of which it becomes very large.  The erroneously large number of weakly bound orbits accounts for the large dark blue triangle in the right panel of H18’s Figure 12. 
-	
+</p>	
+  
 </div>
 
   
 </body>
 </html>
+
 
 
 
